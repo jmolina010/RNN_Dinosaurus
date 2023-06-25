@@ -1,5 +1,5 @@
-## RNN_Dinosaurus
-###Red recurrente que genera nombres de dinosaurios
+# RNN_Dinosaurus
+## Red recurrente que genera nombres de dinosaurios
 
 En este repositorio encontraras un notebook y un fichero de texto.
 El fichero de texto contiene los datos de entremamiento, nombres de dinosaurios.
